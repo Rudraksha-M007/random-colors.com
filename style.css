@@ -1,0 +1,13 @@
+.container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height:70vh;
+}
+ .text{
+    justify-content: center;
+    display: flex;
+   align-items: center;
+   font-size: 10px;
+   height: -150vh;
+  }
